@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     "django.contrib.postgres",
     'edulap',
-    'crispy_forms',
+    #'crispy_forms',
 ]
 
 MIDDLEWARE = [

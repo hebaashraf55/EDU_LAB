@@ -41,7 +41,9 @@ INSTALLED_APPS = [
     "django.contrib.postgres",
     'edulap',
     #'crispy_forms',
+    
 ]
+
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
